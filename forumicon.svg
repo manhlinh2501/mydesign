@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- design by manhlinh  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+  width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<circle fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="50.25" cy="40" r="35"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="28.005" y1="12.977" x2="28.005" y2="12.977"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M31.981,10.141C33.375,12.977,38.572,15.5,50,15.5"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="72.495" y1="12.977" x2="72.495" y2="12.977"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M68.518,10.141C67.375,12.977,61.688,15.5,50,15.5"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M22.234,19.019C25,23.822,33.721,28.625,50,28.625"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M78.266,19.019C76.375,23.822,66.538,28.625,50,28.625"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M31.981,69.858c2.354-2.462,6.592-4.924,18.019-4.924"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M68.518,69.858c0-2-5.628-4.924-18.518-4.924"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M22.234,60.981C23.625,56.99,38,53,50,53"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="15" y1="40.5" x2="85" y2="40.5"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="26.769" y1="48.426" x2="26.769" y2="48.426"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M78.266,60.981C74,56.125,65.232,53,50,53"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M39,40"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M50.5,5"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M40.5,40c-0.236,19,4.978,31.468,9.75,35"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M50.5,5c-5.878,5.875-10,20.75-10,35"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M50.25,5c4.75,3.25,9.875,21,9.875,35.5"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M50.25,75c6.625-5.142,9.875-22,9.875-34.5"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M50.25,5C32.5,10.141,26.769,31,26.769,40.5"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M26.769,40.5c0,17.925,11.74,31.625,23.481,34.5"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M50.25,5C66,9.625,73.75,27.5,73.75,40.5"/>
+<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M50.25,75c17.75-5.142,23.5-23.5,23.5-34.5"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="9" y1="77.875" x2="50.25" y2="88.75"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="50.25" y1="88.75" x2="90.625" y2="77.875"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="9" y1="77.875" x2="16.875" y2="61.875"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="84" y1="61.875" x2="90.625" y2="77.875"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="16.875" y1="61.875" x2="22.234" y2="62.877"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="84" y1="61.875" x2="78.266" y2="62.894"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="50.25" y1="88.75" x2="50.5" y2="76.625"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="12.938" y1="72" x2="50.25" y2="80.75"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="50.25" y1="80.75" x2="85.25" y2="72"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="16.875" y1="66.125" x2="28.375" y2="69"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="73.125" y1="69" x2="83.125" y2="66.875"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="22.625" y1="65.625" x2="17.75" y2="77.875"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="78.125" y1="65.625" x2="83.125" y2="77.875"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="28.375" y1="72.625" x2="26.125" y2="80.125"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="36.117" y1="75.75" x2="34.875" y2="81.625"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="43.125" y1="77.875" x2="42.25" y2="83.875"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="57.5" y1="77.875" x2="58.125" y2="83.875"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="64.133" y1="74.75" x2="65.375" y2="81.688"/>
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="71.875" y1="72.625" x2="73.75" y2="80.125"/>
+</svg>
